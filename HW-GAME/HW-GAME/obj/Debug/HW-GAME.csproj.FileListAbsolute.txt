@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\obj\Debug\HW-GAME.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\obj\Debug\HW-GAME.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\bin\Debug\HW-GAME.exe.config
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\bin\Debug\HW-GAME.exe
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\bin\Debug\HW-GAME.pdb
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\obj\Debug\HW-GAME.exe
+C:\Users\shahi\source\repos\HW-GAME\HW-GAME\obj\Debug\HW-GAME.pdb
